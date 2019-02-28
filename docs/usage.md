@@ -1,6 +1,6 @@
 # coobjc usage
 
-This document instroduce how to use coobjc.
+This document introduce how to use coobjc.
 
 ![image.png](images/asyncawait.png)<br />(reference：[https://dkandalov.github.io/async-await](https://dkandalov.github.io/async-await))
 
